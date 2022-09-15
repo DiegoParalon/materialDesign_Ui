@@ -1,4 +1,4 @@
-import Header from "../partials/Header"
+import Header from "../partials/header/Header"
 
 const Home = () => {
     return (
